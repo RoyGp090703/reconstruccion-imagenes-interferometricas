@@ -1,1 +1,1 @@
-"# reconstruccion-imagenes-interferometricas" 
+Reconstrucción de imágenes interferométricas de discos protoplanetarios mediante redes neuronales.
