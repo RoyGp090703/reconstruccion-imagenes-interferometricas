@@ -1,0 +1,6 @@
+data/HL_Tau.txt
+data/DG_Tau.txt
+data/*.txt
+*.h5
+*.keras
+*.fits
